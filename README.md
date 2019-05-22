@@ -1,2 +1,11 @@
-# ML-models
-This is a collection of ML models for some basic applications
+# Machine Learning
+
+<a href=""><img src="https://www.hicxsolutions.com/wp-content/uploads/2018/06/AdobeStock_177182408.jpeg" title="ML" ></a>
+
+
+## Authors
+
+* **Vineet Dhaimodker**
+
+
+
